@@ -1,0 +1,5 @@
+/public/uploads/photos/*
+!/public/uploads/photos/.htaccess
+.DS_Store
+*.log
+config/config.local.php
